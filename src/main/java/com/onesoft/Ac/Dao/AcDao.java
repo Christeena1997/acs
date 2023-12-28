@@ -21,7 +21,7 @@ public class AcDao {
 
 	public String setDate(Ac f) {
 		er.save(f);
-		return "save successfully..";
+		return "save success..";
 	}
 
 	public String setDat(Ac g) {
